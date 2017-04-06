@@ -1,12 +1,4 @@
 {
-/*
-	# SNIPPETS HTML
-	===============
-    LINES 	   ==> Every line with double quotation marks. Inside line use simple quotation marks
-	IDENTATION ==> \t
-	VARIABLES  ==> ${OrderNum:String} ====> Example ${2:description}
-	
-*/
 	"HTML_Starter": {
 		"prefix": "html__",
 		"body": [
