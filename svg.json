@@ -1,0 +1,34 @@
+{
+/*
+	# SNIPPETS HTML
+	===============
+    LINES 	   ==> Every line with double quotation marks. Inside line use simple quotation marks
+	IDENTATION ==> \t
+	VARIABLES  ==> ${OrderNum:String} ====> Example ${2:description}
+	
+*/
+	"HTML_Starter": {
+		"prefix": "html__",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang='${1:en}'>",
+			"<head>",
+			"\t<meta charset='UTF-8'>",
+			"\t<meta name='description' content='${2:}'>",
+			"\t<meta name='keywords' content='${3:}'>",
+			"\t<meta name='author' content='${4:}'>",
+			"\t<meta name='viewport' content='width=device-width, initial-scale=1.0'>",
+			"\t<meta http-equiv='X-UA-Compatible' content='ie=edge'>",
+			"\t<link rel='icon' href='${5:favicon.ico}' type='image/x-icon'>",
+			"\t<link rel='stylesheet' href='${6:css/style.css}'>",
+			"\t<script type='text/javascript' src='${7:js/script.js}'></script>",
+			"\t<title>${8:Title of Document}</title>",
+			"</head>",
+			"<body>",
+			"\t${9:}",
+			"</body>",
+			"</html>"
+		],
+		"description": "HTML Full Snippet"
+	}
+}

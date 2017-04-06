@@ -1,0 +1,7 @@
+"svg-text": {
+	"prefix": "svg-text",
+	"body": [ 
+		"<text x='$1' y='$2' fill='$3'>$4</text>"
+	],
+	"description": "SVG - TEXT: text"
+}

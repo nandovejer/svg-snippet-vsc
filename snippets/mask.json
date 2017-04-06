@@ -1,0 +1,11 @@
+"svg-mask": {
+	"prefix": "svg-mask",
+	"body": [ 
+		"<defs>",
+			"\t<mask id='1'>",
+				"\t\t$2",
+			"\t</mask>",
+		"</defs>"
+	],
+	"description": "SVG - MASK: mask"
+}

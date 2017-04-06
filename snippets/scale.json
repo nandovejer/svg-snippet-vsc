@@ -1,0 +1,7 @@
+"svg-scale": {
+	"prefix": "svg-scale",
+	"body": [ 
+		"transform='scale($1)'"
+	],
+	"description": "SVG - TRANSFORM: scale"
+}

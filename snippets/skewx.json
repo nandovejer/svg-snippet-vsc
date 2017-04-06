@@ -1,0 +1,7 @@
+"svg-skewX": {
+	"prefix": "svg-skewX",
+	"body": [ 
+		"transform='skewX($1)'"
+	],
+	"description": "SVG - TRANSFORM: skewX"
+}

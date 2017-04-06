@@ -1,0 +1,7 @@
+"svg-polyline": {
+	"prefix": "svg-polyline",
+	"body": [ 
+		"<polyline points='$1' fill='$2' stroke='$3' stroke-width='$4'/>"
+	],
+	"description": "SVG - BASIC SHAPES: polyline"
+}

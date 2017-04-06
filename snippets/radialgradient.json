@@ -1,0 +1,10 @@
+"svg-radialgradient": {
+	"prefix": "svg-radialgradient",
+	"body": [ 
+		"<radialGradient id='$1' gradientUnits='objectBoundingBox'>",
+			"\t<stop offset='$2' stop-color='$3'/>",
+			"\t<stop offset='$4' stop-color='$5'/>",
+		"</radialGradient>"
+	],
+	"description": "SVG - GRADIENTS: radialGradient"
+}

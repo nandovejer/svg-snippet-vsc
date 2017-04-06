@@ -1,0 +1,12 @@
+"svg-defsuse": {
+	"prefix": "svg-defsuse",
+	"body": [ 
+		"<defs>",
+			"\t",
+		"</defs>",
+		"",
+		"<use xlink:href='#$1'/>",
+		"<use xlink:href='#$1' x='$2' y='$3'/>"
+	],
+	"description": "SVG - DRY: defs + use"
+}

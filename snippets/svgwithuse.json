@@ -1,0 +1,18 @@
+"svg-scalableu": {
+	"prefix": "svg-scalableu",
+	"body": [ 
+		"<svg xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'",
+			"\tviewBox='$1' width='$2' height='$3' aria-labelledby='title desc'>",
+				"",
+				"\t\t<title id='title'>$4</title>",
+				"\t\t<desc id='desc'>$5</desc>",
+				"",
+				"\t\t<defs>",
+				"",
+				"\t\t</defs>",
+				"",
+			"\t<use xlink:href='#' x='' y=''/>",
+		"</svg>"
+	],
+	"description": "SVG - STRUCTURE: svg + title + desc + DRY"
+}

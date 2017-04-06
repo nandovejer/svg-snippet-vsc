@@ -1,0 +1,12 @@
+"svg-circleu": {
+	"prefix": "svg-circleu",
+	"body": [ 
+		"<defs>",
+		"\t<circle id='$1' r='$2' cx='$3' cy='$4' fill='$5' stroke='$6' stroke-width='$7'/>",
+		"</defs>",
+		"",
+		"<use xlink:href='#$8'/>",
+		"<use xlink:href='#$8' x='$9' y='$10'/>"
+	],
+	"description": "SVG - BASIC SHAPES: circle + use"
+}

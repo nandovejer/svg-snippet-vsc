@@ -1,0 +1,7 @@
+"svg-tspan": {
+	"prefix": "svg-tspan",
+	"body": [ 
+		"<tspan fill='$1' x='$2' y='$3'>$4</tspan>"
+	],
+	"description": "SVG - TEXT: tspan"
+}

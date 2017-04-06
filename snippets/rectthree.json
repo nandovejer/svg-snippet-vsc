@@ -1,0 +1,9 @@
+"svg-rect3": {
+	"prefix": "svg-rect3",
+	"body": [ 
+		"<rect x='$1' y='$2' width='$3' height='$4' fill='$5' stroke='$6' stroke-width='$7'/>",
+		"<rect x='$1' y='$2' width='$3' height='$4' fill='$5' stroke='$6' stroke-width='$7'/>",
+		"<rect x='$1' y='$2' width='$3' height='$4' fill='$5' stroke='$6' stroke-width='$7'/>"
+	],
+	"description": "SVG - BASIC SHAPES: rectangle × 3"
+}

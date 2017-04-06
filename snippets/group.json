@@ -1,0 +1,9 @@
+"svg-group": {
+	"prefix": "svg-group",
+	"body": [ 
+		"<g id='$1'>",
+			"\t$2",
+		"</g>"
+	],
+	"description": "SVG: group"
+}

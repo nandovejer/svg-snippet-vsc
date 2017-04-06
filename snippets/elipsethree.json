@@ -1,0 +1,9 @@
+"svg-elipse3": {
+	"prefix": "svg-elipse3",
+	"body": [ 
+		"<ellipse rx='$1' ry='$2' cx='$3' cy='$4' fill='$5' stroke='$6' stroke-width='$7'/>",
+		"<ellipse rx='$1' ry='$2' cx='$3' cy='$4' fill='$5' stroke='$6' stroke-width='$7'/>",
+		"<ellipse rx='$1' ry='$2' cx='$3' cy='$4' fill='$5' stroke='$6' stroke-width='$7'/>"
+	],
+	"description": "SVG - BASIC SHAPES: ellipse × 3"
+}

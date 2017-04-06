@@ -1,0 +1,12 @@
+"svg-ellipseu": {
+	"prefix": "svg-ellipseu",
+	"body": [ 
+		"<defs>",
+			"\t<ellipse id='$1' rx='$2' ry='$3' cx='$4' cy='$5' fill='$6' stroke='$7' stroke-width='$8'/>",
+		"</defs>",
+		"",
+		"<use xlink:href='#$9' />",
+		"<use xlink:href='#$9' x='$10' y='$11'/>"
+	],
+	"description": "SVG - BASIC SHAPES: ellipse + use"
+}

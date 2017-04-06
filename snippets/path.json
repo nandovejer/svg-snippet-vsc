@@ -1,0 +1,7 @@
+"svg-path": {
+	"prefix": "svg-path",
+	"body": [ 
+		"<path d='$1' stroke-width='$2' stroke='$3' fill='$4'/>"
+	],
+	"description": "SVG - BASIC SHAPES: path"
+}

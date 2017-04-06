@@ -1,0 +1,12 @@
+"svg-rectu": {
+	"prefix": "svg-rectu",
+	"body": [ 
+		"<defs>",
+			"\t<rect id='$1' x='$2' y='$3' width='$4' height='$5' fill='$6' stroke='$7' stroke-width='$8'/>",
+		"</defs>"
+		"",
+		"<use xlink:href='#$9'/>",
+		"<use xlink:href='#$9' x='$10' y='$11'/>"
+	],
+	"description": "SVG - BASIC SHAPES: rectangle + use"
+}

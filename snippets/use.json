@@ -1,0 +1,7 @@
+"svg-use": {
+	"prefix": "svg-use",
+	"body": [ 
+		"<use xlink:href='#$1' x='$2' y='$3'/>"
+	],
+	"description": "SVG - DRY: use"
+}

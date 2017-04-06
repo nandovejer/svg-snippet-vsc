@@ -1,0 +1,7 @@
+"svg-polygon": {
+	"prefix": "svg-polygon",
+	"body": [ 
+		"<polygon points='$1' fill='$2' stroke='$3' stroke-width='$4'/>"
+	],
+	"description": "SVG - BASIC SHAPES: polygon"
+}

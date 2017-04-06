@@ -1,0 +1,5 @@
+"svg-circle": {
+	"prefix": "svg-circle",
+	"body": [ "<circle r='$1' cx='$2' cy='$3' fill='$4' stroke='$5' stroke-width='$6'/>" ],
+	"description": "SVG - BASIC SHAPES: circle"
+}

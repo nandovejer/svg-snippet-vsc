@@ -1,0 +1,7 @@
+"svg-translate": {
+	"prefix": "svg-translate",
+	"body": [ 
+		"transform='translate($1)'"
+	],
+	"description": "SVG - TRANSFORM: translate"
+}

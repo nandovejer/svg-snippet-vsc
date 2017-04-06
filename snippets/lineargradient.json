@@ -1,0 +1,10 @@
+"svg-lineargradient": {
+	"prefix": "svg-lineargradient",
+	"body": [ 
+		"<linearGradient id='$1' gradientUnits='objectBoundingBox'>",
+			"\t<stop offset='$2' stop-color='$3'/>",
+			"\t<stop offset='$4' stop-color='$5'/>",
+		"</linearGradient>"
+	],
+	"description": "SVG - GRADIENTS: linearGradient"
+}

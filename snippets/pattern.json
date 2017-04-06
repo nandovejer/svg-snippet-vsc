@@ -1,0 +1,11 @@
+"svg-pattern": {
+	"prefix": "svg-pattern",
+	"body": [ 
+		"<defs>",
+			"\t<pattern id='$1' width='$2' height='$3' patternUnits='userSpaceOnUse'>",
+				"\t\t$4",
+			"\t</pattern>",
+		"</defs>"
+	],
+	"description": "SVG - PATTERN: patterns"
+}

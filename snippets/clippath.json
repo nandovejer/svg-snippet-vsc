@@ -1,0 +1,11 @@
+"svg-clippath": {
+	"prefix": "svg-clippath",
+	"body": [ 
+		"<defs>",
+			"\t<clipPath id='$1'>",
+				"\t\t$2",
+			"\t</clipPath>",
+		"</defs>"
+	],
+	"description": "SVG - Clip-Path: clipPath"
+}

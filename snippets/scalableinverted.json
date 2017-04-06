@@ -1,0 +1,14 @@
+"svg-scalablei": {
+    "prefix": "svg-scalablei",
+    "body": [ 
+        "<svg xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'",
+            "\tviewBox='$1 $2 $3 $4' width='$5' height='$6' aria-labelledby='title desc'>",
+                "\t\t<title id='title'>$7</title>",
+                "\t\t<desc id='desc'>$8</desc>",
+                "\t\t<g transform='translate(0,$4) scale(1,-1)'>",
+                    "\t\t\t${9:<!-- content -->}",
+                "\t\t</g>",
+        "</svg>"
+    ],
+    "description": "SVG - STRUCTURE: Inverted Y-Axis"
+}
